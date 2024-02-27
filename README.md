@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
-[Guide]](https://github.com/ceciliatruong/ios101-project1-wordle-starter/blob/main/IOS101-Project1-Demo.gif?raw=true) .
+<img src='IOS101-Project1-Demo.gif'>.
 
 
 ## Notes
